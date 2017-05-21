@@ -111,7 +111,7 @@
 								$count =0;
 								while($row = mysqli_fetch_assoc($result)){
 									$count = $count +1;
-									echo "<div class=\"panel panel-info\">";
+									echo "<div class=\"panel panel-info\" >";
 									echo "<div class='panel-heading inside'><span id='issue-heading'>".$row['heading']."</span></div>";
 									echo "<div class='panel-body'><h4>".$row['subheading']."</h4>";
 									echo "<p class=\"truncate panel-body\">".$row['text']."</p>";
