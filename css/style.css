@@ -1,0 +1,74 @@
+
+
+body {
+	font-family: "Open Sans";
+}
+ 
+.inline {
+	display: inline-block;
+}
+
+
+#logo {
+	margin-left: 20px; 
+}
+
+#slogan {
+	font-size: 40px;
+}
+.menu {
+	margin-top: 30px;
+	margin-right: 30px;
+}
+
+#wrapper {
+	
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #515151;
+    color: white;
+
+}
+
+.panel > .inside {
+    background-image: none;
+    background-color: #E3F2FD;
+    color: black;
+}
+
+#issue-heading {
+	font-size: 20px;
+}
+
+#login {
+	margin-top: 20px;
+}
+
+.give-top-margin {
+	margin-top: 20px;
+}
+.center-text {
+	text-align: center;
+}
+
+#signup {
+	margin-top: 50px;
+}
+
+#home-main {
+	margin-top: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#home-main-left {
+
+}
+
+.truncate {
+	width: 95%;
+  	white-space: nowrap;
+	overflow: hidden;
+  	text-overflow: ellipsis;
+}
