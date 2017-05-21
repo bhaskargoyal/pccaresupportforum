@@ -49,13 +49,13 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/opensanslight.css" />
 	<link rel = "stylesheet" href="css/style.css" type="text/css">
-	<title>Blogging System | New User</title>
+	<title>PC Care | New User</title>
 </head>
 <body>
 	<div class="container">
 		<div id="head-navbar">
 			<div id="logo" class="menu inline">
-				<h3 style="margin:0px;">Blogging System</h3>
+				<h3 style="margin:0px;">PC Care | New User</h3>
 			</div>
 			<div class="menu inline pull-right">
 				<a class="btn btn-info" href="index.php">Back</a>

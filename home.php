@@ -140,7 +140,7 @@
 
 					<!-- Resolved -->
 					<div class="panel panel-default">
-						<div class="panel-heading"><?php if($admin == 0) echo $firstname."'s "; ?>Admin | Issues (Not Resolved)</div>
+						<div class="panel-heading"><?php if($admin == 0) echo $firstname."'s "; ?>Admin | Issues (Resolved)</div>
 						<div class="panel-body">
 
 						<?php

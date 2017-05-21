@@ -16,7 +16,7 @@
 							VALUES ('".$heading."', '".$subheading."', '".$text."', ".$userid.");";
 					$result2 = mysqli_query($con, $query);
 					if($result2 == True){
-						$_SESSION['status'] = "New Blog Created";
+						$_SESSION['status'] = "New Issue Created";
 						header("Location: home.php");
 						exit();
 					} else {
