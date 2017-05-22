@@ -25,6 +25,9 @@ body {
 #wrapper {
 	
 }
+
+.heading-collapsible {
+}
 .panel > .panel-heading {
     background-image: none;
     background-color: #515151;
@@ -38,9 +41,7 @@ body {
     color: black;
 }
 
-#issue-heading {
-	font-size: 20px;
-}
+
 
 #login {
 	margin-top: 20px;
@@ -72,4 +73,10 @@ body {
   	white-space: nowrap;
 	overflow: hidden;
   	text-overflow: ellipsis;
+}
+
+footer {
+	padding: 10px;
+	color: white;
+	background-color: #515151;
 }

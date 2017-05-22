@@ -141,7 +141,15 @@
 		?>
 		</section>
 	</div>
-				<script src="js/jquery.js"></script>
+	<footer>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-9 col-sm-offset-1"><p >&nbsp;&nbsp;&nbsp;&nbsp;&copy; Copyright 2016</p></div>
+			<div class="col-sm-2"><p>PC Care</p></div>
+		</div>
+		</div>
+	</footer>
+	<script src="js/jquery.js"></script>
 	<script src="js/bootstrap.js"></script>
 	<script type="text/javascript" src="js/script.js"></script>
 </body>
